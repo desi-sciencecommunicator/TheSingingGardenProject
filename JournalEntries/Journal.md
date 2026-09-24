@@ -157,7 +157,7 @@ I want to vary the distance and phase angle. Inspired by the experiment conducte
 
 Data breakdown: 1st recording = ~7 minute recording close to [the cricket in the Cande section], my typical recording spot, 2nd recording = A distance of roughly 20 feet from Cande section (outdoor dining table) and 90-degree angle, 3rd recording = roughly 40 feet from Cande section (sliding door) and 90-degree angle. 4th recording = roughly 60 feet from the Cande section (behind pool fence) and 90-degree angle. 5th recording = Roughly 100 feet from the Cande section (opposite fence from the Cande section) and roughly 100-degree angle, 6th recording = Roughly 80 feet from the Cande section and roughly 130-degree angle, 7th recording = Roughly 20 feet from the Cande section and roughly 180-degree angle. 
 
-![Spatial map of the distance and phase angle experiment]('/Volumes/HD-PGF/Grillos/JournalEntries/IMG_6287.png')
+![Spatial map of the distance and phase angle experiment]('IMG_6291.png')
 
 I want to see if I can separate the source of signals, and can capture which individual dominates the "airwaves" at a certain distance or angle.
 
