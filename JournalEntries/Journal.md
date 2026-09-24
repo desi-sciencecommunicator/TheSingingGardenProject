@@ -17,7 +17,7 @@ From listening to the recordings tonight and previous nights, this might be a ne
 
 The cricket have different tones and pitches when trilling. I want to say it is audible by ear? 
 
-Current weather: 75 degrees F, 2 MPH winds, 4 MPH gust 
+Current weather: 75 degrees F, 2 MPH winds, 4 MPH gust.
 
 ## 20260723 
 
@@ -27,9 +27,11 @@ Current weather: 75 degrees F, 2 MPH winds, 4 MPH gust
 
 ## 20260729
 
-@ 9:50 PM: Today, I changed up the recording method, where I am trying to do longer recordings, but I am concurrently recording with my phone. By doing both, I can see how well the trill is picked up [by either device is similar through the analysis process]. My goal is to record data with spatial information to inform where to collect soil samples for lab results. 
+@ 9:50 PM: Today, I changed up the recording method, where I am trying to do longer recordings, but I am concurrently recording with my phone. By doing both, I can see how well the trill is picked up [by either device is similar through the analysis process]. My goal is to record data with spatial information to inform where to collect soil samples for lab results. Note that their trills were especially loud at this time.
 
 @ 1:18 AM: Recording, put the microphone and phone together. Want to make a "chamber" to reduce the light coming from the laptop. 
+
+![Sketch of imaging chamber desired to cover the light of data collection devices](IMG_6287.png)
 
 NOTE: In some recordings, there's a background noise from I think the A/C. Try to record around it, I have to keep in mind for future recordings. 
 
@@ -37,13 +39,23 @@ NOTE: In some recordings, there's a background noise from I think the A/C. Try t
 
 @ 3:37 AM: I am doing another recording. I set the timer for 10 minutes, I am not sure if I should do longer. I am curious to see if the phone and microphone data are comparable. 3D-printed phone stands may be helpful in propping up the phone during recordings. 
 
+![Sketch of 3D-printed stand I used for phone recordings](IMG_6288.png)
+
 @ 3:44 AM: [The cricket in the Cande section] seems to stop a few times. Why? Is it spontaneous? Is there a function to these pauses? Is it evoked by something? I want to try to make their recordings longer. 
 
 @ 3:52 AM: Going to do concurrent recording with the microphone and phone.
 
 ## 20260730
 
-@ 8:30 PM: [The cricket in the Cande section] started singing at this time. I am recording with both microphone and phone. Trying to do a long recording. Trying to continue to optimizing how much data I collect. I think it is interesting to focus on a single cricket and record them all night. That would give an idea of how long recordings [should be to extract the most useful information]. This informs storage capacity of lengthy recordings. Started wearing PPE (sweater, pants, shoes, gloves, hat) for safety against insects like Latrodectus or mosquitoes. There is a lot of background noise. I believe there are two crickets trilling together [in the Cande section]. Doing recording simultaneously with phone. Consider just recording the A/C noise to possibly do background subtraction.
+@ 8:30 PM: [The cricket in the Cande section] started singing at this time. I am recording with both microphone and phone. Trying to do a long recording. Trying to continue to optimizing how much data I collect. I think it is interesting to focus on a single cricket and record them all night. That would give an idea of how long recordings [should be to extract the most useful information]. This informs storage capacity of lengthy recordings. Started wearing PPE (sweater, pants, shoes, gloves, hat) for safety against insects like Latrodectus or mosquitoes. There is a lot of background noise. I believe there are two crickets trilling together [in the Cande section]. Doing recording simultaneously with phone. Consider just recording the A/C noise to possibly do background subtraction. Note that the cricket stopped singing when I approached, seemed to be aware of my presence.
+
+@ 2:15 AM: Two crickets are singing in the Cande section. I noticed that they are singing less consistently.
+
+## 20260731 
+@ 8:42 PM: Just one cricket observed in the Cande section. The first trills begin later than yesterday (which was at 8:30 PM). 
+
+@ 11:50 PM: One or two crickets observed, did recordings from the microphone. 
+
 
 ## 20260801 
 
@@ -82,6 +94,8 @@ Evening observations
 
 @ 8:30 PM: [The cricket in the Cande section] started singing earlier this time. There is a lot of background noise because of the high wind. Fall is starting ... the leaves are getting yellow. The cricket seems to be increasingly aware of my presence. The cricket sings at the highest point in the section - at the top of the fence, which I have seen there's a nest-like structure with spiders and dead leaves. There are multiple nest-like structures that form along the plant in the Cande section. The tallest one is chosen - why? When I observed a cricket in another section of the garden (Granada), the cricket did not choose the highest point. 
 
+![Sketch visualizing the location of the cricket in the Cande section relative to the garden ledge and the trumpet flower plant branch structure.](IMG_6289.png)
+
 How are ants helpful in the ecosystem? They are active all day, in plants and vegetation. Do they also eat dead organic matter?
 
 @ 10:09 PM: I did a recording for ten minutes. [The cricket in the Cande section] did not sing the whole time. I have been observing what I believe are two individual crickets trilling next to each other (on either side of the fence). Last night, the higher frequency cricket went quiet and it just sounded different. Today, I do not think the second higher frequency cricket is present. Only the lower frequency cricket, which is not that active today. There are many long pauses in its trills. Its calls sound different by ear. Today's recordings would be interesting to look at and compare to previous days. 
@@ -109,6 +123,8 @@ How are ants helpful in the ecosystem? They are active all day, in plants and ve
 ## 20260812
 
 (I am almost certain) There's a new cricket at the location of the previous cricket in the Cande section because it has a lighter tone. It is very windy. There seems to be multiple crickets in/near the garden tonight. 
+
+![Visualization of the Cande, Catalina, and opposite-side-of-the-fence trilling crickets](IMG_6290.png)
 
 @ 1:16 AM: Doing a recording. I believe there are three more crickets singing in the garden tonight. I am going to see if I can catch all three singing individually. This is a good dataset for doing identification of individual crickets. If I can identify individual crickets, then can do more complex analysis i.e. spatial analysis. Going to do 5 minutes per cricket. Tonight, it is a literal singing garden :) One of the crickets stopped singing during the recording.
 
@@ -149,6 +165,9 @@ Where a cicada was singing last night (Granada section), a new cricket is singin
 
 ## 20260817
 
+@ 8:11 PM: Just one cricket in the Cande section, captured with the microphone. The cricket started trilling earlier than previous days.
+
+@ 9:00 PM: I observed two crickets in the Cande section, on either side of the fence. Did a distance and phase angle experiment. 
 ### An experiment: Distance and phase angle
 
 I am almost certain there is a cricket on the other side of the fence of [the cricket in the Cande section] - so likely I am capturing the paired call of two crickets.
@@ -161,17 +180,38 @@ Data breakdown: 1st recording = ~7 minute recording close to [the cricket in the
 
 I want to see if I can separate the source of signals, and can capture which individual dominates the "airwaves" at a certain distance or angle.
 
+## 20260818
+
+@ 9:42 PM: One cricket in the Cande section. I did not record. 
+
+@ 9:42 PM: There are two crickets in the garden. One in the Cande section, the second in some pots close to the entrace door - which is the first time I observe a cricket trill from this location. 
+
+## 20260819 
+
+@ 8:30 PM: Not clear if there is one or two crickets in the Cande section. I recorded with my phone.
 
 
+@ 10:00 PM: There are two crcickets in the Cande section. Note that there are definitely two crickets trilling, and they are displaying interplay between their sounds. I recorded with my phone. 
 
+## 20260822 
 
+@ 12:21 AM: I observe one cricket in the Cande section. I recorded with my phone. 
 
+@ 3:12 AM: I observe one cricket in the Cande section. I did not record.
 
+## 202608024 
 
+@ 1:27 AM: I observe one circket in the Cande section. I recorded with my phone. Note that the trills at this recording were very interesting, where it seemed to have done a circular, phasic, call in all directions. I did not clearly observe this before. It was very interesting and cool! 
 
+## 202608024
 
+@ 8:00 PM: Just one cricket in the Cande section. Recorded with my phone.
 
+@ 1:21 AM: Just one cricket in the Cande section. Did not record with my phone.
 
+## 20260825 
+
+@ 8:00 PM: Just one cricket in the Cande section. Recorded with my phone. Note that the trill was soft, timid. This is the last observation of a cricket in the garden for the Summer.
 
 
 
