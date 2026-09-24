@@ -104,7 +104,7 @@ How are ants helpful in the ecosystem? They are active all day, in plants and ve
 
 ## 20260804
 
-[The cricket in the Cande section] started singing at 8:30 AM.
+[The cricket in the Cande section] started singing at 8:30 PM.
 
 ## 20260806
 
