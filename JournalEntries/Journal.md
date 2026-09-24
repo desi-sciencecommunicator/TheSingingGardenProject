@@ -1,6 +1,6 @@
 # OBSERVATION JOURNAL
 
-Observation of the Gryllus Integer from 20260722 to 20260817
+Observation of the Gryllus Integer from 20260722 to 20260825
 
 Desiderio Ascencio 
 
