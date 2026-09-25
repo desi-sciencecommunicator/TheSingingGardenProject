@@ -4,7 +4,7 @@ Observation of the Gryllus Integer from 20260722 to 20260825
 
 Desiderio Ascencio 
 
-This digitized version is created 20260923 
+This digitized version was created 20260923 
 
 ## 20260722
 Where I am recording tonight, I think there are two crickets on either side of the fence [by the Cande section]. This cricket [by the Cande section] is in an even higher position, and sounds like he is at the fence. 83 degrees F. 32% humidity. 7 mph wind. I went over the sprinkler system with my parents to understand where the sprinklers turn on in the garden, and at what time. 
